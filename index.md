@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<video id="video" controls="" preload="none" >
+<video id="video" controls="controls" >
       <source id="mp4" src="./video/test.MOV" type="video/mp4">
       </video>
 
