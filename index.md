@@ -8,9 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<video id="video"  controls="controls" >
-      <source id="mp4" src="./video/video-presentation_NTU.mp4" type="video/mp4">
-      </video>
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/8fZKBXtRKvc">
+    </iframe>
+</div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
