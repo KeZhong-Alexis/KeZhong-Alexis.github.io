@@ -40,5 +40,5 @@ The following video presents my interests and research experiences in Materials 
 
 ### Curriculum Vitae
 
-If you want to know more about me, please download my CV at 
+If you want to know more about me, please download my CV [here](./file/CV_Ke_Zhong.pdf).
 
