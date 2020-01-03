@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <div align="center">
-    <iframe width="620" height="315"
+    <iframe width="505" height="256"
         src="https://www.youtube.com/embed/8fZKBXtRKvc">
     </iframe>
 </div>
