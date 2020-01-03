@@ -4,7 +4,7 @@
 Hi! This is Ke Zhong at the Southern University of Science and Technology (SUSTech), China. Welcome to my webpage for the Ph.D. application of the Nanyang Technological University! NTU has always been my dream university for its cutting-edge research fields and noteworthy academic supervisors. Moreover, Singapore is such an attractive country for me because of its cross-cultural environment. 
 
 
-The following video presents my interests and research experiences in Materials Science and Engineering (MSE), and my passion and ambitions in a Ph.D. program. 
+The following video presents my interests and research experiences in Materials Science and Engineering (MSE), and my passion and ambitions in your Ph.D. program. 
 
 
 <div align="center">
