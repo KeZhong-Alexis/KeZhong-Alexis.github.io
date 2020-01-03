@@ -1,7 +1,4 @@
-## Welcome to Ke Zhong's Pages
-
-
-#### Ph.D. Application Video
+# Ph.D. Application Video
 
 
 <div align="center">
