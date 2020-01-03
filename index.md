@@ -16,11 +16,11 @@ The following video presents my interests and research experiences in Materials 
 
 ### Slides in the video
 
-![Research experiences_1](image/Research experiences_1.tiff)
+![Research experiences_1](./image/Research_experiences_1.tiff)
 
 
 
-![Research experiences_2](image/Research experiences_2.tiff)
+![Research experiences_2](./image/Research_experiences_2.tiff)
 
 
 # Other Personal Information
