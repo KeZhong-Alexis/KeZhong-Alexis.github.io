@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <div align="center">
     <iframe width="505" height="256"
-        src="https://www.youtube.com/embed/8fZKBXtRKvc">
+        src="https://www.youtube.com/embed/8fZKBXtRKvc" allowfullscreen="true">
     </iframe>
 </div>
 
